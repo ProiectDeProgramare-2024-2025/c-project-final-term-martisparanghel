@@ -1,0 +1,10 @@
+# ninja log v6
+37	206	7663436954332451	CMakeFiles/PP.dir/main.c.obj	2935ece7d128b8fa
+2	401	7663437437415110	build.ninja	a08f3c54796bac7e
+46	202	7663436954422463	CMakeFiles/PP.dir/Consultatii_actualizare.c.obj	65bf5f6c0fdae245
+42	183	7663436954382460	CMakeFiles/PP.dir/Consultatii.c.obj	8e6265a3027345c
+51	205	7663436954472470	CMakeFiles/PP.dir/Meniu.c.obj	85c772429fbba2d6
+13	346	7663437437415110	build.ninja	a08f3c54796bac7e
+15	117	7663439303980862	CMakeFiles/PP.dir/Consultatii_actualizare.c.obj	65bf5f6c0fdae245
+6	131	7663439303890846	CMakeFiles/PP.dir/Consultatii.c.obj	8e6265a3027345c
+131	263	7663439305137634	PP.exe	8828316e30748a40
